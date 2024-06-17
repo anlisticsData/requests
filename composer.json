@@ -12,5 +12,7 @@
             "name": "Edilson Claudino da silva"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
+
 }
