@@ -1,0 +1,16 @@
+
+{
+    "name": "edi/requests",
+    "description": "Lib de Captura de Request php",
+    "autoload": {
+        "psr-4": {
+            "AnalisticsData\\Requests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edilson Claudino da silva"
+        }
+    ],
+    "require": {}
+}
