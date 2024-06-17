@@ -1,6 +1,6 @@
 
 {
-    "name": "edi/requests",
+    "name": "analisicsdata/requests",
     "description": "Lib de Captura de Request php",
     "autoload": {
         "psr-4": {
